@@ -44,7 +44,7 @@
 <a href="https://www.linkedin.com/in/vikash-kumar-786740230/"><img src="https://img.shields.io/badge/-Vikash%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vraj67207@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/VikashKumar6007/"><img src="https://img.shields.io/badge/-Vikashkumar6007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="<a href="https://leetcode.com/VikashKumar6007/"><img src="https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>"><img src="https://img.shields.io/badge/-Resume-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
 </p>
 
 ---
