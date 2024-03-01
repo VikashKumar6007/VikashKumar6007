@@ -23,9 +23,9 @@
 
 - 😄 Pronouns: He/Him
 
-- 📝 I regulary write code on [GitHub](___) ( [Portfolio](https://apoorvtyagi133.blogspot.com/))
+- 📝 I regulary write code on [GitHub](___)
 
-- 👯 We can connect on [Linkedin]((https://www.linkedin.com/in/kumar-suraj-sk/)) to discuss anything related to development
+- 👯 We can connect on [Linkedin]((https://www.linkedin.com/in/vikash-kumar-786740230/)) to discuss anything related to development
 
 - ⚡ Fun fact: Je connais un peu le français
 </td>
