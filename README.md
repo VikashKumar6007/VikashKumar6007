@@ -98,7 +98,7 @@
 <div align="center">
     
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VikashKumar6007&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+![](api?username=VikashKumar6007&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 
 ### 😂 Random Dev Meme
