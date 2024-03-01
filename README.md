@@ -51,7 +51,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![React-native.io](https://img.shields.io/badge/socket_io-%2307405e.svg)&nbsp; 
+![React-native.io](https://img.shields.io/badge/React-native_io-%2307405e.svg)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
